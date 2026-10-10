@@ -123,4 +123,4 @@ Windows 10/11、macOS 12+ 且有 4 GB 内存即可 — 详见上方要求。
 
 > 🛟 **Still stuck?** Open an issue and include your OS and the steps you tried — the guide above solves 9 out of 10 problems.
 
-*nova-delta-882 · 更新于 2026-10-09 · 基于 MIT 许可证共享*
+*nova-delta-882 · 更新于 2026-10-10 · 基于 MIT 许可证共享*
